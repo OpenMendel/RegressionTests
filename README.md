@@ -1,8 +1,15 @@
 # RegressionTests
-A collection of test cases for the OpenMendel framework
+A collection of test cases for the [OpenMendel](https://openmendel.github.io) framework
 
-## OpenMendel
-RegressionTests is one component of the umbrella [OpenMendel](https://github.com/OpenMendel) project. See [cite]() if you use the code in your research.    
+## Citation
+
+If you use this analysis package in your research, please cite the following reference in the resulting publications:
+
+Lange K, Papp JC, Sinsheimer JS, Sripracha R, Zhou H, Sobel EM (2013) Mendel: The Swiss army knife of genetic analysis programs. Bioinformatics 29:1568-1570.
+
+<!--- ## Contributing
+We welcome contributions to this Open Source project. To contribute, follow this procedure ... --->
 
 ## Acknowledgments
-This project is supported through National Institutes of Health R01 HG006139.
+
+This project is supported by the National Institutes of Health under NIGMS awards R01GM053275 and R25GM103774 and NHGRI award R01HG006139.
