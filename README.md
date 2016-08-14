@@ -3,7 +3,7 @@ A collection of test cases for the [OpenMendel](https://openmendel.github.io) fr
 
 ## Citation
 
-If you use this analysis package in your research, please cite the following reference in the resulting publications:
+If you use this OpenMendel in your research, please cite the following reference in the resulting publications:
 
 *Lange K, Papp JC, Sinsheimer JS, Sripracha R, Zhou H, Sobel EM (2013) Mendel: The Swiss army knife of genetic analysis programs. Bioinformatics 29:1568-1570.*
 
